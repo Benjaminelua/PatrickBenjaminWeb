@@ -1,6 +1,6 @@
 BENJAMIN PATRICK'S DATA PORTFOLIO WEBSITE
 
-Welcome to my personal data portfolio website — a central hub to showcase my data science, data analysis, SQL, and data cleaning projects. Built with HTML, CSS, and Bootstrap, this site highlights my technical skills, professional journey, and project experience in a clean, responsive layout.
+Welcome to my personal data portfolio website; a central hub to showcase my data science, data analysis, SQL, and data cleaning projects. Built with HTML, CSS, and Bootstrap, this site highlights my technical skills, professional journey, and project experience in a clean, responsive layout.
 
 -------------------------------------------
 🌐 LIVE WEBSITE
